@@ -15,7 +15,7 @@ Realizar el método descontarPatente():double tal que si el precio es >10000 el 
 
 ## Ejercicio 3 (5 puntos)
 
-** En la clase Main: **
+**En la clase Main: **
 
 a)  Crear dos Vehiculos con el constructor especifico
 b) Mostrar en pantalla todos los datos de uno de los Vehiculos.
