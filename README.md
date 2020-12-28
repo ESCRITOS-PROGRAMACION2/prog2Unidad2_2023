@@ -1,4 +1,4 @@
-# Escritos-Unidad2-2020
-Ejercicio practico sobre clases y objetos
+# Escritos de Programación 2 2020
+
 
 
