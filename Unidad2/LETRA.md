@@ -10,16 +10,16 @@ Dada una clase llamada Vehiculo que permita guardar: la matrícula y marca (de t
 
 ## Ejercicio 2 (2 puntos)
 
-Realizar el método descontarPatente():double tal que si el precio es >10000 el descuento sea de un 10% del precio
+Realizar el método descontarPatente():double tal que si el precio es mayor de 10000 el descuento sea de un 10% del precio
 
 
 ## Ejercicio 3 (5 puntos)
 
 **En la clase Main:** 
 
-a)  Crear dos Vehiculos con el constructor especifico
-b) Mostrar en pantalla todos los datos de uno de los Vehiculos.
-c) Modificar algún dato de los vehiculos creados.
-d) Mostrar en pantalla que el cambio anterior  quedo hecho.
-e) Probar el método descontarPatente 
+a)  Crear dos Vehiculos con el constructor especifico </br>
+b) Mostrar en pantalla todos los datos de uno de los Vehiculos.</br>
+c) Modificar algún dato de los vehiculos creados.</br>
+d) Mostrar en pantalla que el cambio anterior  quedo hecho.</br>
+e) Probar el método descontarPatente </br>
 
