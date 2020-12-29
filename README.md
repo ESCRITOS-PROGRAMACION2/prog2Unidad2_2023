@@ -15,10 +15,10 @@ Agregar a la clase Vehiculo el método **descontarPatente():double** tal que si 
 
 **Crear una clase llamada PruebaVehiculo que contenga el método main y allí:** 
 
-a)  Crear dos objetos de tipo Vehiculo con el constructor completo </br>
-b) Mostrar en pantalla todos los datos de uno de los Vehiculos.</br>
-c) Modificar algún dato de los vehiculos creados.</br>
-d) Mostrar en pantalla que el cambio anterior  quedo hecho.</br>
-e) Probar el método descontarPatente </br>
+a)  Crear dos objetos de tipo Vehiculo con el constructor completo  
+b) Mostrar en pantalla todos los datos de uno de los Vehiculos.  
+c) Modificar algún dato de los vehiculos creados.  
+d) Mostrar en pantalla que el cambio anterior  quedo hecho.  
+e) Probar el método descontarPatente  
 
 
