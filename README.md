@@ -1,24 +1,22 @@
 
 # PARTE PRÁCTICA
 
-## Ejercicio 1 (5 puntos)
+# Clase Artículo
 
-Realizar una clase llamada Vehiculo que permita guardar: la matrícula y marca (de tipo String) y el precio (de tipo double). Escriba la clase con todos los atributos, el constructor completo, los métodos getters, setters y toString.
+>### Dado el siguiente  **diagrama de clases**. 
 
+>![Clase Articulo](./articulo.png)
 
-## Ejercicio 2 (2 puntos)
+>### Para este ejercicio se pide desarrollar la clase **Articulo** respetando el diagrama, es decir, NO pueden agregar nuevos atributos.
+• **Escriba los métodos constructores, getter y setter**
 
-Agregar a la clase Vehiculo el método **descontarPatente():double** tal que si el precio es mayor de 10000 el descuento sea de un 10% del precio
+• **public double precioVenta():** El método devuelve el valor de precioCosto con un incremento del 30%.
 
+• **public String toString():** Devuelve transformado en String: código, nombre, precioCosto y precioVenta() del producto.
 
-## Ejercicio 3 (5 puntos)
+En la clase **Principal** deberá crear dos objetos de tipo Articulo, uno con todos los valores cargados con el constructor específico, otro con los métodos setters. Puede cargar los atributos con valores constantes, tal como se realizó en el teórico.
 
-**Crear una clase llamada PruebaVehiculo que contenga el método main y allí:** 
+### ATENCIÓN: No olvide compartir el link a su proyecto en CREA para poder corregir.
 
-a)  Crear dos objetos de tipo Vehiculo con el constructor completo  
-b) Mostrar en pantalla todos los datos de uno de los Vehiculos.  
-c) Modificar algún dato de los vehiculos creados.  
-d) Mostrar en pantalla que el cambio anterior  quedo hecho.  
-e) Probar el método descontarPatente  
 
 
