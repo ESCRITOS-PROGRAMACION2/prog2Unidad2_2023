@@ -1,5 +1,5 @@
 
-public class Vehiculo {
+public class Articulo {
 
 	
 
